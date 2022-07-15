@@ -9,13 +9,14 @@ This powerful scraper is based on non-dynamic selectors, with well-structured an
 
 To run you need chrome installed.
 ```
+pip install -upgrade wpp-scraper
 pip install --upgrade selenium
 pip install --upgrade webdriver-manager
 ```
 
 ### Example:
 ```
-from whats_scraper import WhatsAppScraper
+from whatsapp_scraper import WhatsAppScraper
 
 test=WhatsAppScraper()
 test.login()
