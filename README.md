@@ -9,8 +9,7 @@ This powerful scraper is based on non-dynamic selectors, with well-structured an
 
 To run you need chrome installed.
 ```
-pip install --upgrade selenium
-pip install --upgrade webdriver-manager
+pip install --upgrade wpp-scraper
 ```
 
 ### Example:
